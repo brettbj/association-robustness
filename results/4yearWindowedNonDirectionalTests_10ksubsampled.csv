@@ -1,0 +1,11 @@
+,case,control,exposure,nonexposure,fishersExact,ORconfInt
+0,t2dCaseEmerge,t2dControlEmerge,depressionCase,depressionControl,"(1.1816491905350415, 1.923517685314451e-05)","(1.0948638149895902, 1.2753136877625226)"
+1,t2dCaseEmerge,t2dControlEmerge,depressionCaseMultipleDx,depressionControl,"(1.1630175890508196, 0.0008669381503435249)","(1.0646606267388932, 1.2704611013790328)"
+2,t2dCaseEmerge,t2dControlEmergeNoLab,depressionCase,depressionControl,"(1.065703979349635, 0.10840960965991167)","(0.9869564015298256, 1.1507346928812932)"
+3,t2dCaseEmerge,t2dControlEmergeNoLab,depressionCaseMultipleDx,depressionControl,"(1.178421381479726, 0.00033262022218322825)","(1.0778478533595819, 1.2883793830457348)"
+4,t2dCaseEmerge,t2dControlEmergeSingleVisit,depressionCase,depressionControl,"(1.187652789214506, 1.5745728695990697e-05)","(1.0987641645224435, 1.2837323906919151)"
+5,t2dCaseEmerge,t2dControlEmergeSingleVisit,depressionCaseMultipleDx,depressionControl,"(1.220658051344231, 9.972567700167597e-06)","(1.1176475129547554, 1.333162791524786)"
+6,t2dCaseEmerge,t2dControlEmergeNoScreening,depressionCase,depressionControl,"(1.1635890850388115, 0.00011708874773020622)","(1.0776101273247236, 1.2564280201994296)"
+7,t2dCaseEmerge,t2dControlEmergeNoScreening,depressionCaseMultipleDx,depressionControl,"(1.1849646472389903, 0.00019236731178229593)","(1.084300969886563, 1.2949736781597831)"
+8,t2dCaseEmerge,t2dControlEmergeNoFamilyHx,depressionCase,depressionControl,"(1.2001055165088792, 5.162129699585144e-06)","(1.1098400638715227, 1.2977124341059794)"
+9,t2dCaseEmerge,t2dControlEmergeNoFamilyHx,depressionCaseMultipleDx,depressionControl,"(1.1985032184437079, 6.936697869488337e-05)","(1.0966357652104353, 1.3098332283046492)"
