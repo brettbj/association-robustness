@@ -1,0 +1,662 @@
+,age,ageCount,label
+0,56.0,6801,Case
+1,49.0,3802,Case
+2,71.0,9788,Case
+3,31.0,175,Case
+4,16.0,8,Case
+5,103.0,69,Case
+6,44.0,1893,Case
+7,34.0,386,Case
+8,59.0,8183,Case
+9,84.0,2323,Case
+10,94.0,892,Case
+11,102.0,96,Case
+12,111.0,2,Case
+13,64.0,10272,Case
+14,39.0,1077,Case
+15,30.0,182,Case
+16,105.0,33,Case
+17,12.0,2,Case
+18,36.0,565,Case
+19,66.0,10746,Case
+20,53.0,5090,Case
+21,46.0,2447,Case
+22,100.0,199,Case
+23,83.0,2454,Case
+24,19.0,33,Case
+25,72.0,10801,Case
+26,74.0,6235,Case
+27,40.0,1207,Case
+28,104.0,47,Case
+29,87.0,1887,Case
+30,88.0,1788,Case
+31,78.0,3770,Case
+32,61.0,9354,Case
+33,93.0,999,Case
+34,108.0,6,Case
+35,14.0,3,Case
+36,80.0,3038,Case
+37,89.0,1662,Case
+38,65.0,10820,Case
+39,96.0,615,Case
+40,48.0,3326,Case
+41,55.0,6243,Case
+42,28.0,154,Case
+43,21.0,32,Case
+44,29.0,187,Case
+45,82.0,2566,Case
+46,35.0,472,Case
+47,25.0,108,Case
+48,15.0,5,Case
+49,10.0,1,Case
+50,69.0,10094,Case
+51,60.0,8683,Case
+52,50.0,3936,Case
+53,85.0,2158,Case
+54,42.0,1583,Case
+55,17.0,13,Case
+56,110.0,2,Case
+57,90.0,1410,Case
+58,63.0,10117,Case
+59,97.0,486,Case
+60,22.0,71,Case
+61,107.0,11,Case
+62,67.0,11125,Case
+63,70.0,9584,Case
+64,52.0,4515,Case
+65,57.0,7128,Case
+66,77.0,4567,Case
+67,37.0,745,Case
+68,27.0,129,Case
+69,92.0,1235,Case
+70,20.0,35,Case
+71,76.0,5633,Case
+72,86.0,1824,Case
+73,101.0,127,Case
+74,51.0,4231,Case
+75,33.0,302,Case
+76,26.0,103,Case
+77,47.0,2796,Case
+78,54.0,5401,Case
+79,38.0,885,Case
+80,81.0,3040,Case
+81,,4,Case
+82,106.0,22,Case
+83,23.0,72,Case
+84,13.0,6,Case
+85,68.0,10601,Case
+86,75.0,5967,Case
+87,43.0,1729,Case
+88,95.0,808,Case
+89,7.0,1,Case
+90,18.0,15,Case
+91,8.0,3,Case
+92,41.0,1392,Case
+93,58.0,7669,Case
+94,98.0,415,Case
+95,73.0,8259,Case
+96,91.0,1365,Case
+97,24.0,88,Case
+98,9.0,3,Case
+99,11.0,3,Case
+100,113.0,1,Case
+101,99.0,289,Case
+102,62.0,9821,Case
+103,79.0,3370,Case
+104,45.0,2179,Case
+105,32.0,215,Case
+106,109.0,3,Case
+0,51.0,52410,Baseline Control
+1,33.0,21377,Baseline Control
+2,76.0,12962,Baseline Control
+3,26.0,27569,Baseline Control
+4,86.0,3764,Baseline Control
+5,101.0,422,Baseline Control
+6,119.0,3,Baseline Control
+7,53.0,52781,Baseline Control
+8,36.0,29369,Baseline Control
+9,46.0,43849,Baseline Control
+10,19.0,14311,Baseline Control
+11,66.0,42658,Baseline Control
+12,83.0,4585,Baseline Control
+13,6.0,572,Baseline Control
+14,100.0,518,Baseline Control
+15,47.0,47281,Baseline Control
+16,54.0,54615,Baseline Control
+17,38.0,34676,Baseline Control
+18,23.0,22083,Baseline Control
+19,13.0,6679,Baseline Control
+20,81.0,5717,Baseline Control
+21,,38,Baseline Control
+22,106.0,58,Baseline Control
+23,72.0,29047,Baseline Control
+24,40.0,37044,Baseline Control
+25,74.0,15621,Baseline Control
+26,87.0,3653,Baseline Control
+27,104.0,131,Baseline Control
+28,43.0,40322,Baseline Control
+29,68.0,36724,Baseline Control
+30,18.0,12685,Baseline Control
+31,75.0,14295,Baseline Control
+32,7.0,1679,Baseline Control
+33,8.0,2299,Baseline Control
+34,95.0,1812,Baseline Control
+35,48.0,51528,Baseline Control
+36,65.0,45046,Baseline Control
+37,21.0,17818,Baseline Control
+38,28.0,28085,Baseline Control
+39,29.0,26572,Baseline Control
+40,55.0,57594,Baseline Control
+41,80.0,5953,Baseline Control
+42,89.0,3307,Baseline Control
+43,96.0,1467,Baseline Control
+44,50.0,53172,Baseline Control
+45,85.0,4021,Baseline Control
+46,42.0,40077,Baseline Control
+47,60.0,55367,Baseline Control
+48,17.0,11134,Baseline Control
+49,69.0,32766,Baseline Control
+50,110.0,10,Baseline Control
+51,78.0,8037,Baseline Control
+52,61.0,54083,Baseline Control
+53,88.0,3428,Baseline Control
+54,93.0,2186,Baseline Control
+55,14.0,7507,Baseline Control
+56,108.0,19,Baseline Control
+57,49.0,54509,Baseline Control
+58,56.0,57755,Baseline Control
+59,71.0,28817,Baseline Control
+60,31.0,21740,Baseline Control
+61,16.0,10259,Baseline Control
+62,103.0,213,Baseline Control
+63,52.0,51928,Baseline Control
+64,27.0,28594,Baseline Control
+65,57.0,57345,Baseline Control
+66,20.0,15744,Baseline Control
+67,67.0,40192,Baseline Control
+68,70.0,29919,Baseline Control
+69,77.0,10234,Baseline Control
+70,37.0,32693,Baseline Control
+71,92.0,2532,Baseline Control
+72,41.0,38373,Baseline Control
+73,11.0,4845,Baseline Control
+74,58.0,57323,Baseline Control
+75,73.0,20128,Baseline Control
+76,24.0,24116,Baseline Control
+77,98.0,963,Baseline Control
+78,91.0,2631,Baseline Control
+79,9.0,2898,Baseline Control
+80,113.0,1,Baseline Control
+81,79.0,7006,Baseline Control
+82,62.0,52536,Baseline Control
+83,99.0,738,Baseline Control
+84,45.0,43399,Baseline Control
+85,32.0,20403,Baseline Control
+86,109.0,18,Baseline Control
+87,82.0,5125,Baseline Control
+88,15.0,8931,Baseline Control
+89,25.0,26002,Baseline Control
+90,35.0,26834,Baseline Control
+91,10.0,3842,Baseline Control
+92,114.0,1,Baseline Control
+93,63.0,49988,Baseline Control
+94,22.0,19771,Baseline Control
+95,90.0,3078,Baseline Control
+96,97.0,1173,Baseline Control
+97,107.0,33,Baseline Control
+98,59.0,56674,Baseline Control
+99,44.0,41709,Baseline Control
+100,34.0,23306,Baseline Control
+101,84.0,4228,Baseline Control
+102,94.0,1820,Baseline Control
+103,102.0,294,Baseline Control
+104,111.0,6,Baseline Control
+105,39.0,36479,Baseline Control
+106,64.0,47849,Baseline Control
+107,12.0,5730,Baseline Control
+108,30.0,24413,Baseline Control
+109,105.0,108,Baseline Control
+0,53.0,58188,Ignore Lab Value
+1,66.0,50211,Ignore Lab Value
+2,36.0,30892,Ignore Lab Value
+3,46.0,47278,Ignore Lab Value
+4,83.0,5979,Ignore Lab Value
+5,100.0,746,Ignore Lab Value
+6,19.0,14955,Ignore Lab Value
+7,6.0,620,Ignore Lab Value
+8,40.0,39321,Ignore Lab Value
+9,74.0,18946,Ignore Lab Value
+10,72.0,35328,Ignore Lab Value
+11,87.0,4954,Ignore Lab Value
+12,104.0,193,Ignore Lab Value
+13,78.0,10187,Ignore Lab Value
+14,61.0,62054,Ignore Lab Value
+15,14.0,7894,Ignore Lab Value
+16,93.0,3050,Ignore Lab Value
+17,88.0,4623,Ignore Lab Value
+18,108.0,36,Ignore Lab Value
+19,35.0,28096,Ignore Lab Value
+20,15.0,9386,Ignore Lab Value
+21,25.0,27263,Ignore Lab Value
+22,82.0,6611,Ignore Lab Value
+23,10.0,4039,Ignore Lab Value
+24,114.0,1,Ignore Lab Value
+25,49.0,59295,Ignore Lab Value
+26,56.0,64574,Ignore Lab Value
+27,16.0,10786,Ignore Lab Value
+28,31.0,22672,Ignore Lab Value
+29,71.0,34936,Ignore Lab Value
+30,103.0,306,Ignore Lab Value
+31,37.0,34382,Ignore Lab Value
+32,52.0,57040,Ignore Lab Value
+33,70.0,35905,Ignore Lab Value
+34,57.0,64371,Ignore Lab Value
+35,20.0,16496,Ignore Lab Value
+36,67.0,47638,Ignore Lab Value
+37,27.0,29973,Ignore Lab Value
+38,77.0,12830,Ignore Lab Value
+39,92.0,3532,Ignore Lab Value
+40,79.0,8940,Ignore Lab Value
+41,62.0,60641,Ignore Lab Value
+42,99.0,1054,Ignore Lab Value
+43,45.0,46593,Ignore Lab Value
+44,32.0,21269,Ignore Lab Value
+45,109.0,23,Ignore Lab Value
+46,86.0,5019,Ignore Lab Value
+47,51.0,57320,Ignore Lab Value
+48,76.0,16022,Ignore Lab Value
+49,101.0,593,Ignore Lab Value
+50,33.0,22340,Ignore Lab Value
+51,26.0,28885,Ignore Lab Value
+52,119.0,3,Ignore Lab Value
+53,54.0,60512,Ignore Lab Value
+54,47.0,50973,Ignore Lab Value
+55,23.0,23101,Ignore Lab Value
+56,38.0,36486,Ignore Lab Value
+57,13.0,7072,Ignore Lab Value
+58,81.0,7365,Ignore Lab Value
+59,,48,Ignore Lab Value
+60,106.0,82,Ignore Lab Value
+61,18.0,13257,Ignore Lab Value
+62,8.0,2422,Ignore Lab Value
+63,43.0,43097,Ignore Lab Value
+64,68.0,43669,Ignore Lab Value
+65,75.0,17505,Ignore Lab Value
+66,95.0,2465,Ignore Lab Value
+67,7.0,1771,Ignore Lab Value
+68,48.0,55686,Ignore Lab Value
+69,55.0,63997,Ignore Lab Value
+70,21.0,18637,Ignore Lab Value
+71,29.0,27770,Ignore Lab Value
+72,65.0,52765,Ignore Lab Value
+73,28.0,29309,Ignore Lab Value
+74,89.0,4523,Ignore Lab Value
+75,80.0,7643,Ignore Lab Value
+76,96.0,2034,Ignore Lab Value
+77,60.0,63246,Ignore Lab Value
+78,42.0,42647,Ignore Lab Value
+79,50.0,57962,Ignore Lab Value
+80,17.0,11699,Ignore Lab Value
+81,69.0,39160,Ignore Lab Value
+82,85.0,5343,Ignore Lab Value
+83,110.0,13,Ignore Lab Value
+84,59.0,64191,Ignore Lab Value
+85,34.0,24469,Ignore Lab Value
+86,44.0,44561,Ignore Lab Value
+87,84.0,5637,Ignore Lab Value
+88,94.0,2588,Ignore Lab Value
+89,102.0,419,Ignore Lab Value
+90,111.0,7,Ignore Lab Value
+91,41.0,40757,Ignore Lab Value
+92,24.0,25290,Ignore Lab Value
+93,58.0,64696,Ignore Lab Value
+94,9.0,3045,Ignore Lab Value
+95,73.0,24644,Ignore Lab Value
+96,11.0,5113,Ignore Lab Value
+97,91.0,3720,Ignore Lab Value
+98,98.0,1348,Ignore Lab Value
+99,113.0,1,Ignore Lab Value
+100,22.0,20748,Ignore Lab Value
+101,63.0,58032,Ignore Lab Value
+102,90.0,4186,Ignore Lab Value
+103,97.0,1667,Ignore Lab Value
+104,107.0,47,Ignore Lab Value
+105,39.0,38663,Ignore Lab Value
+106,64.0,55857,Ignore Lab Value
+107,30.0,25518,Ignore Lab Value
+108,105.0,156,Ignore Lab Value
+109,12.0,6024,Ignore Lab Value
+0,47.0,119166,Ignore Lab
+1,54.0,130325,Ignore Lab
+2,23.0,137477,Ignore Lab
+3,38.0,98129,Ignore Lab
+4,13.0,119313,Ignore Lab
+5,81.0,31624,Ignore Lab
+6,106.0,816,Ignore Lab
+7,,91,Ignore Lab
+8,21.0,136355,Ignore Lab
+9,29.0,110974,Ignore Lab
+10,28.0,123772,Ignore Lab
+11,48.0,129100,Ignore Lab
+12,55.0,136433,Ignore Lab
+13,65.0,105690,Ignore Lab
+14,80.0,31899,Ignore Lab
+15,89.0,23798,Ignore Lab
+16,96.0,12783,Ignore Lab
+17,115.0,2,Ignore Lab
+18,116.0,2,Ignore Lab
+19,50.0,130923,Ignore Lab
+20,69.0,76637,Ignore Lab
+21,60.0,128956,Ignore Lab
+22,17.0,127416,Ignore Lab
+23,42.0,107605,Ignore Lab
+24,85.0,26184,Ignore Lab
+25,110.0,116,Ignore Lab
+26,37.0,94052,Ignore Lab
+27,52.0,126070,Ignore Lab
+28,67.0,94256,Ignore Lab
+29,77.0,43449,Ignore Lab
+30,57.0,134754,Ignore Lab
+31,20.0,134482,Ignore Lab
+32,92.0,20197,Ignore Lab
+33,70.0,70097,Ignore Lab
+34,27.0,134152,Ignore Lab
+35,58.0,134427,Ignore Lab
+36,73.0,52951,Ignore Lab
+37,24.0,137635,Ignore Lab
+38,98.0,9483,Ignore Lab
+39,91.0,21026,Ignore Lab
+40,41.0,103998,Ignore Lab
+41,9.0,76352,Ignore Lab
+42,11.0,106993,Ignore Lab
+43,113.0,28,Ignore Lab
+44,51.0,127176,Ignore Lab
+45,26.0,135902,Ignore Lab
+46,76.0,45895,Ignore Lab
+47,33.0,69997,Ignore Lab
+48,86.0,24234,Ignore Lab
+49,101.0,4541,Ignore Lab
+50,119.0,5,Ignore Lab
+51,6.0,17413,Ignore Lab
+52,36.0,86712,Ignore Lab
+53,19.0,134196,Ignore Lab
+54,83.0,27566,Ignore Lab
+55,100.0,5466,Ignore Lab
+56,46.0,112668,Ignore Lab
+57,53.0,126599,Ignore Lab
+58,66.0,99652,Ignore Lab
+59,74.0,42276,Ignore Lab
+60,87.0,24441,Ignore Lab
+61,72.0,72260,Ignore Lab
+62,40.0,103097,Ignore Lab
+63,104.0,1696,Ignore Lab
+64,18.0,129572,Ignore Lab
+65,43.0,107447,Ignore Lab
+66,68.0,85976,Ignore Lab
+67,8.0,62439,Ignore Lab
+68,7.0,48049,Ignore Lab
+69,95.0,15011,Ignore Lab
+70,75.0,42759,Ignore Lab
+71,15.0,124985,Ignore Lab
+72,10.0,92319,Ignore Lab
+73,25.0,137449,Ignore Lab
+74,35.0,80261,Ignore Lab
+75,82.0,29771,Ignore Lab
+76,114.0,9,Ignore Lab
+77,22.0,135891,Ignore Lab
+78,63.0,116917,Ignore Lab
+79,97.0,10945,Ignore Lab
+80,90.0,22192,Ignore Lab
+81,107.0,541,Ignore Lab
+82,44.0,109638,Ignore Lab
+83,59.0,132496,Ignore Lab
+84,34.0,72737,Ignore Lab
+85,84.0,27131,Ignore Lab
+86,94.0,16261,Ignore Lab
+87,102.0,3334,Ignore Lab
+88,111.0,85,Ignore Lab
+89,30.0,98537,Ignore Lab
+90,39.0,101937,Ignore Lab
+91,12.0,115974,Ignore Lab
+92,64.0,111237,Ignore Lab
+93,105.0,1241,Ignore Lab
+94,79.0,34202,Ignore Lab
+95,62.0,122877,Ignore Lab
+96,99.0,7483,Ignore Lab
+97,45.0,112483,Ignore Lab
+98,32.0,71351,Ignore Lab
+99,109.0,228,Ignore Lab
+100,5.0,2,Ignore Lab
+101,112.0,36,Ignore Lab
+102,61.0,125925,Ignore Lab
+103,14.0,120771,Ignore Lab
+104,88.0,23847,Ignore Lab
+105,78.0,37292,Ignore Lab
+106,93.0,18059,Ignore Lab
+107,108.0,325,Ignore Lab
+108,16.0,128409,Ignore Lab
+109,56.0,136833,Ignore Lab
+110,71.0,69200,Ignore Lab
+111,31.0,81432,Ignore Lab
+112,49.0,134834,Ignore Lab
+113,103.0,2397,Ignore Lab
+0,75.0,7452,No Lab
+1,7.0,40065,No Lab
+2,8.0,52233,No Lab
+3,43.0,34973,No Lab
+4,95.0,4472,No Lab
+5,18.0,101242,No Lab
+6,68.0,13490,No Lab
+7,53.0,31786,No Lab
+8,83.0,8309,No Lab
+9,46.0,34164,No Lab
+10,19.0,102559,No Lab
+11,36.0,33125,No Lab
+12,66.0,16459,No Lab
+13,100.0,1820,No Lab
+14,6.0,14537,No Lab
+15,80.0,9642,No Lab
+16,28.0,63597,No Lab
+17,48.0,37112,No Lab
+18,55.0,32340,No Lab
+19,29.0,55260,No Lab
+20,21.0,97906,No Lab
+21,89.0,6996,No Lab
+22,65.0,18304,No Lab
+23,96.0,3936,No Lab
+24,116.0,2,No Lab
+25,115.0,1,No Lab
+26,56.0,31703,No Lab
+27,103.0,792,No Lab
+28,31.0,38290,No Lab
+29,49.0,37268,No Lab
+30,71.0,9781,No Lab
+31,16.0,103894,No Lab
+32,84.0,8133,No Lab
+33,94.0,4822,No Lab
+34,34.0,29321,No Lab
+35,44.0,34957,No Lab
+36,59.0,27286,No Lab
+37,102.0,1159,No Lab
+38,111.0,40,No Lab
+39,25.0,81808,No Lab
+40,82.0,9038,No Lab
+41,10.0,76672,No Lab
+42,15.0,102434,No Lab
+43,35.0,31269,No Lab
+44,114.0,4,No Lab
+45,64.0,19656,No Lab
+46,12.0,96550,No Lab
+47,30.0,48040,No Lab
+48,39.0,35920,No Lab
+49,105.0,464,No Lab
+50,90.0,6591,No Lab
+51,97.0,3428,No Lab
+52,63.0,21460,No Lab
+53,22.0,93779,No Lab
+54,107.0,189,No Lab
+55,62.0,23376,No Lab
+56,32.0,31934,No Lab
+57,45.0,34776,No Lab
+58,79.0,10104,No Lab
+59,99.0,2410,No Lab
+60,109.0,92,No Lab
+61,112.0,21,No Lab
+62,5.0,1,No Lab
+63,76.0,10275,No Lab
+64,86.0,7248,No Lab
+65,26.0,76432,No Lab
+66,51.0,33258,No Lab
+67,33.0,29484,No Lab
+68,101.0,1460,No Lab
+69,119.0,2,No Lab
+70,81.0,9513,No Lab
+71,38.0,35542,No Lab
+72,54.0,31562,No Lab
+73,13.0,99260,No Lab
+74,23.0,90372,No Lab
+75,47.0,34973,No Lab
+76,106.0,300,No Lab
+77,,19,No Lab
+78,72.0,10047,No Lab
+79,40.0,35733,No Lab
+80,74.0,6564,No Lab
+81,87.0,7338,No Lab
+82,104.0,614,No Lab
+83,78.0,10773,No Lab
+84,14.0,100039,No Lab
+85,88.0,7177,No Lab
+86,61.0,24636,No Lab
+87,93.0,5328,No Lab
+88,108.0,133,No Lab
+89,17.0,101396,No Lab
+90,85.0,7970,No Lab
+91,42.0,35615,No Lab
+92,60.0,25818,No Lab
+93,50.0,35443,No Lab
+94,69.0,11457,No Lab
+95,110.0,53,No Lab
+96,27.0,71889,No Lab
+97,77.0,12154,No Lab
+98,70.0,9932,No Lab
+99,57.0,30083,No Lab
+100,92.0,5971,No Lab
+101,67.0,15067,No Lab
+102,20.0,100220,No Lab
+103,37.0,34732,No Lab
+104,52.0,32463,No Lab
+105,58.0,29098,No Lab
+106,98.0,2915,No Lab
+107,91.0,6290,No Lab
+108,9.0,63571,No Lab
+109,41.0,34935,No Lab
+110,11.0,88875,No Lab
+111,24.0,86325,No Lab
+112,73.0,7750,No Lab
+113,113.0,13,No Lab
+0,97.0,486,No lab matched
+1,63.0,10117,No lab matched
+2,90.0,1410,No lab matched
+3,22.0,71,No lab matched
+4,107.0,11,No lab matched
+5,73.0,7236,No lab matched
+6,58.0,7669,No lab matched
+7,41.0,1392,No lab matched
+8,91.0,1365,No lab matched
+9,98.0,415,No lab matched
+10,24.0,88,No lab matched
+11,9.0,3,No lab matched
+12,11.0,3,No lab matched
+13,113.0,1,No lab matched
+14,70.0,9087,No lab matched
+15,67.0,11125,No lab matched
+16,77.0,4567,No lab matched
+17,52.0,4515,No lab matched
+18,57.0,7128,No lab matched
+19,37.0,745,No lab matched
+20,92.0,1235,No lab matched
+21,27.0,129,No lab matched
+22,20.0,35,No lab matched
+23,34.0,386,No lab matched
+24,59.0,8183,No lab matched
+25,44.0,1893,No lab matched
+26,84.0,2323,No lab matched
+27,94.0,892,No lab matched
+28,102.0,96,No lab matched
+29,111.0,2,No lab matched
+30,64.0,10271,No lab matched
+31,39.0,1077,No lab matched
+32,30.0,182,No lab matched
+33,12.0,2,No lab matched
+34,105.0,33,No lab matched
+35,76.0,5633,No lab matched
+36,86.0,1824,No lab matched
+37,101.0,127,No lab matched
+38,51.0,4231,No lab matched
+39,33.0,302,No lab matched
+40,26.0,103,No lab matched
+41,66.0,10745,No lab matched
+42,53.0,5090,No lab matched
+43,46.0,2447,No lab matched
+44,36.0,565,No lab matched
+45,83.0,2454,No lab matched
+46,100.0,199,No lab matched
+47,19.0,33,No lab matched
+48,47.0,2796,No lab matched
+49,81.0,3040,No lab matched
+50,38.0,885,No lab matched
+51,54.0,5401,No lab matched
+52,23.0,72,No lab matched
+53,13.0,6,No lab matched
+54,106.0,22,No lab matched
+55,74.0,5644,No lab matched
+56,72.0,9605,No lab matched
+57,40.0,1207,No lab matched
+58,87.0,1887,No lab matched
+59,104.0,47,No lab matched
+60,43.0,1729,No lab matched
+61,75.0,5943,No lab matched
+62,68.0,10601,No lab matched
+63,95.0,808,No lab matched
+64,18.0,15,No lab matched
+65,8.0,3,No lab matched
+66,7.0,1,No lab matched
+67,61.0,9354,No lab matched
+68,78.0,3770,No lab matched
+69,93.0,999,No lab matched
+70,88.0,1788,No lab matched
+71,108.0,6,No lab matched
+72,14.0,3,No lab matched
+73,48.0,3326,No lab matched
+74,65.0,10819,No lab matched
+75,55.0,6243,No lab matched
+76,21.0,32,No lab matched
+77,80.0,3038,No lab matched
+78,29.0,187,No lab matched
+79,96.0,615,No lab matched
+80,89.0,1662,No lab matched
+81,28.0,154,No lab matched
+82,35.0,472,No lab matched
+83,25.0,108,No lab matched
+84,82.0,2566,No lab matched
+85,15.0,5,No lab matched
+86,10.0,1,No lab matched
+87,69.0,10094,No lab matched
+88,60.0,8683,No lab matched
+89,50.0,3936,No lab matched
+90,42.0,1583,No lab matched
+91,85.0,2158,No lab matched
+92,17.0,13,No lab matched
+93,110.0,2,No lab matched
+94,49.0,3802,No lab matched
+95,56.0,6801,No lab matched
+96,71.0,9125,No lab matched
+97,31.0,175,No lab matched
+98,103.0,69,No lab matched
+99,16.0,8,No lab matched
+100,79.0,3370,No lab matched
+101,45.0,2179,No lab matched
+102,62.0,9821,No lab matched
+103,99.0,289,No lab matched
+104,32.0,215,No lab matched
+105,109.0,3,No lab matched
